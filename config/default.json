@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb://127.0.0.1:27017/DEVCONNECTOR",
-  "jwtToken": "defStream"
+  "jwtToken": "defStream",
+  "githubClientId":"8196697a8abe684a098f",
+  "githubSecret":"6e224dfd7b494fde8870b9c9ab4708f6103b0f3b"
 }
